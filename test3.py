@@ -1,2 +1,1 @@
 print('sdfsdf')
-print('fuck')
