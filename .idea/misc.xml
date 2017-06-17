@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IpnbSettings">
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.5 (~/anaconda3/envs/py34/bin/python)" project-jdk-type="Python SDK" />
+  <component name="UnicodeBrowser">
+    <option name="fontName" value="DejaVu Sans Mono" />
+  </component>
+</project>
